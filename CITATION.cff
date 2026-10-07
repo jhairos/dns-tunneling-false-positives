@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Reducing False Positives in Heuristic DNS Tunneling Detection: A Structural Analysis of Legitimate High-Entropy DNS Names"
+authors:
+  - family-names: "Suntaxi Cocanguilla"
+    given-names: "Medardo Jairo"
+version: "1.0"
+date-released: "2026-10-07"
+license: CC-BY-4.0
+repository-code: "https://github.com/jhairos/dns-tunneling-false-positives"
